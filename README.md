@@ -1,146 +1,783 @@
-<!-- ===================== HEADER ===================== --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AFFEF,50:3B82F6,100:8B5CF6&height=200&section=header&text=Gaurav%20K&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18" width="100%" /> </p> <p align="center"> <a href="https://github.com/gauravkal006"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=0AFFEF&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=%F0%9F%91%8B+Hello,+I'm+Gaurav!;Computer+Science+%26+Engineering+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Java+%7C+C%2B%2B+%7C+Python;Building+Real-World+AI+Projects" alt="Typing SVG" width="100%" /> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=gauravkal006&label=Profile%20Views&color=0AFFEF&style=for-the-badge" alt="Profile views" /> <img src="https://img.shields.io/github/followers/gauravkal006?label=Followers&style=for-the-badge&color=3B82F6&logo=github" alt="Followers" /> <img src="https://img.shields.io/badge/Open%20To-Internships-8B5CF6?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to internships" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/gaurav-k-137336237/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/gauravkal006/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="mailto:gauravkal66@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-🚀 About Me
-<table> <tr> <td width="60%" valign="top">
-I'm a Computer Science & Engineering student passionate about software development, AI/ML and problem solving. I love building practical projects that combine AI + web technologies + databases to solve real-world problems.
+<!-- ========================================================= -->
+<!--                        HERO SECTION                        -->
+<!-- ========================================================= -->
 
-🔭 Currently: Building DocBlendAI (confidence-aware document QA) & a Spring Boot Home Decor platform
-🌱 Learning: Spring Boot, Docker, Kubernetes, AWS, RAG & DSA
-💼 Experience: Full Stack Intern @ Flowbit · Hackathons
-🧠 Practising: DSA, aptitude & placement-oriented coding
-🤝 Open to: Internships, collaborations & hackathons
-📍 Location: Amravati, Maharashtra, India
-</td> <td width="40%" align="center" valign="middle"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding" /> </td> </tr> </table> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-🛠️ Tech Stack
-<p align="center"> <b>Languages</b><br/> <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,html,css,sass&perline=8" /> </p> <p align="center"> <b>Web & Backend</b><br/> <img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,spring,fastapi,flask,tailwind&perline=9" /> </p> <p align="center"> <b>AI / ML &amp; Computer Vision</b><br/> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&perline=4" /> </p> <p align="center"> <b>Databases, Cloud &amp; DevOps</b><br/> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,kubernetes,aws,vercel,git,github,vscode,postman&perline=11" /> </p>
-🧰 Full Toolbox
-<p align="center"><b>👨‍💻 Languages</b><br/> <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54" alt="Python" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=kotlin&logoColor=white" alt="Kotlin" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white" alt="Dart" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white" alt="R" /> <img src="https://img.shields.io/badge/Scala-DC322F?style=plastic&logo=scala&logoColor=white" alt="Scala" /> <img src="https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white" alt="Rust" /> <img src="https://img.shields.io/badge/Perl-39457E?style=plastic&logo=perl&logoColor=white" alt="Perl" /> <img src="https://img.shields.io/badge/Apache%20Groovy-4298B8?style=plastic&logo=apachegroovy&logoColor=white" alt="Apache Groovy" /> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=plastic&logo=powershell&logoColor=white" alt="PowerShell" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphql&logoColor=white" alt="GraphQL" /> <img src="https://img.shields.io/badge/LaTeX-008080?style=plastic&logo=latex&logoColor=white" alt="LaTeX" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css&logoColor=white" alt="CSS3" /> </p> <p align="center"><b>🌐 Frameworks & Libraries</b><br/> <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white" alt="Angular" /> <img src="https://img.shields.io/badge/Angular.js-E23237?style=plastic&logo=angularjs&logoColor=white" alt="Angular.js" /> <img src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=plastic&logo=tailwindcss&logoColor=white" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/Radix%20UI-161618?style=plastic&logo=radixui&logoColor=white" alt="Radix UI" /> <img src="https://img.shields.io/badge/Express.js-404D59?style=plastic&logo=express&logoColor=61DAFB" alt="Express.js" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=plastic&logo=nestjs&logoColor=white" alt="NestJS" /> <img src="https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=dotnet&logoColor=white" alt=".NET" /> <img src="https://img.shields.io/badge/JavaFX-FF0000?style=plastic&logo=openjdk&logoColor=white" alt="JavaFX" /> <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=plastic&logo=rabbitmq&logoColor=white" alt="RabbitMQ" /> </p> <p align="center"><b>🤖 AI / ML & Data</b><br/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white" alt="Keras" /> <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white" alt="scikit-learn" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white" alt="OpenCV" /> <img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Matplotlib-FFFFFF?style=plastic&logo=matplotlib&logoColor=black" alt="Matplotlib" /> <img src="https://img.shields.io/badge/MLflow-0194E2?style=plastic&logo=mlflow&logoColor=white" alt="MLflow" /> <img src="https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=anaconda&logoColor=white" alt="Anaconda" /> </p> <p align="center"><b>🗄️ Databases</b><br/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Redis-DD0031?style=plastic&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white" alt="MariaDB" /> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" /> <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=amazondynamodb&logoColor=white" alt="Amazon DynamoDB" /> </p> <p align="center"><b>☁️ Cloud, Hosting & Servers</b><br/> <img src="https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonaws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Azure-0072C6?style=plastic&logo=microsoftazure&logoColor=white" alt="Azure" /> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=plastic&logo=googlecloud&logoColor=white" alt="Google Cloud" /> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=cloudflare&logoColor=white" alt="Cloudflare" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=plastic&logo=render&logoColor=black" alt="Render" /> <img src="https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white" alt="Heroku" /> <img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white" alt="Nginx" /> <img src="https://img.shields.io/badge/Apache-D42029?style=plastic&logo=apache&logoColor=white" alt="Apache" /> <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=plastic&logo=apachetomcat&logoColor=black" alt="Apache Tomcat" /> <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=apachemaven&logoColor=white" alt="Apache Maven" /> </p> <p align="center"><b>🧰 Tools & Design</b><br/> <img src="https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-121011?style=plastic&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/GitLab-181717?style=plastic&logo=gitlab&logoColor=white" alt="GitLab" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=selenium&logoColor=white" alt="Selenium" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white" alt="Canva" /> <img src="https://img.shields.io/badge/Zigbee-EB0443?style=plastic&logo=zigbee&logoColor=white" alt="Zigbee" /> </p>
-📈 Skill Levels
-Skill	Level
-☕ Java	Show Image
-⚙️ C++	Show Image
-🐍 Python	Show Image
-🌐 JavaScript / React	Show Image
-🟢 Node.js / Express	Show Image
-🍃 Spring Boot	Show Image
-🗄️ MySQL / PostgreSQL / MongoDB	Show Image
-🤖 Machine Learning / CV	Show Image
-✨ GenAI / RAG	Show Image
-🧩 DSA	Show Image
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gauravkal006&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkal006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=gauravkal006&theme=tokyonight&hide_border=true&ring=0AFFEF&fire=F97316&currStreakLabel=0AFFEF" width="60%" /> </p> <p align="center"> <img src="https://github-trophies.vercel.app/?username=gauravkal006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" /> </p>
-📌 Top Repositories
-<p align="center"> <a href="https://github.com/gauravkal006/DocBlendAI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravkal006&repo=DocBlendAI&theme=tokyonight&hide_border=true" width="49%" /></a> <a href="https://github.com/gauravkal006/smart-document-assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravkal006&repo=smart-document-assistant&theme=tokyonight&hide_border=true" width="49%" /></a> <a href="https://github.com/gauravkal006/Fruit_freshness_detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravkal006&repo=Fruit_freshness_detection&theme=tokyonight&hide_border=true" width="49%" /></a> <a href="https://github.com/gauravkal006/storemyfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravkal006&repo=storemyfiles&theme=tokyonight&hide_border=true" width="49%" /></a> </p>
-</div><br>
-<!-- Snake Game Repo View -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0AFFEF,45:3B82F6,100:8B5CF6&height=230&section=header&text=GAURAV%20K&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descAlignY=58&descSize=18"
+    width="100%"
+  />
+</p>
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2800&pause=700&color=0AFFEF&center=true&vCenter=true&width=850&lines=%F0%9F%91%8B+Hey%2C+I'm+Gaurav!;Computer+Science+%26+Engineering+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Java+%7C+C%2B%2B+%7C+Python;Building+AI-Powered+Real-World+Products"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gauravkal006&label=PROFILE%20VIEWS&color=0AFFEF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/gauravkal006?label=FOLLOWERS&style=for-the-badge&color=3B82F6&logo=github" />
+  <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-8B5CF6?style=for-the-badge&logo=handshake&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gaurav-k-137336237/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/gauravkal006">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:gauravkal66@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
+
+<!-- ========================================================= -->
+<!--                         ABOUT ME                           -->
+<!-- ========================================================= -->
+
+<h2>⚡ About Me</h2>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 👨‍💻 Who Am I?
+
+I'm a **Computer Science & Engineering student** passionate about building practical software products with **AI/ML, full-stack development, databases, and cloud technologies**.
+
+I enjoy turning real-world problems into usable applications — from AI document assistants and computer vision systems to full-stack platforms.
+
+- 🔭 **Currently building:** DocBlendAI & Spring Boot Home Decor Platform
+- 🌱 **Currently learning:** Spring Boot, Docker, Kubernetes, AWS, RAG & DSA
+- 💼 **Experience:** Full Stack Developer Intern @ Flowbit
+- 🧠 **Practising:** DSA, aptitude & placement-oriented coding
+- 🏆 **Interested in:** AI + Software Engineering + Product Development
+- 🤝 **Open to:** Internships, collaborations, hackathons & open source
+- 📍 **Based in:** Amravati, Maharashtra, India
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
+
+
+<!-- ========================================================= -->
+<!--                    DEVELOPER TOOLBOX                      -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,12&height=3&section=header" width="100%" />
+</p>
+
+<h2>🧰 Developer Toolbox</h2>
+
+<p align="center">
+  <i>Tools I use to design, build, train, deploy and ship.</i>
+</p>
+
+<br>
+
+<h3>🧰 Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,kotlin,dart,php,r,rust&perline=11" />
+</p>
+
+<h3>🧰 Frontend & UI</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,react,nextjs,vite,tailwind,angular,vue&perline=9" />
+</p>
+
+<h3>🧰 Backend & APIs</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,fastapi,flask,dotnet,rabbitmq&perline=8" />
+</p>
+
+<h3>🧰 AI / ML / Computer Vision</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&perline=4" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+</p>
+
+<h3>🧰 Databases</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite&perline=5" />
+</p>
+
+<h3>🧰 Cloud, DevOps & Infrastructure</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,vercel,cloudflare,nginx&perline=9" />
+</p>
+
+<h3>🧰 Development Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma&perline=6" />
+</p>
+
+
+<!-- ========================================================= -->
+<!--                      TECH STACK                           -->
+<!-- ========================================================= -->
+
+<h2>⚙️ Core Tech Stack</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<h3>💻 Languages</h3>
+Java<br>
+C++<br>
+Python<br>
+JavaScript<br>
+TypeScript
+</td>
+
+<td align="center" width="25%">
+<h3>🌐 Full Stack</h3>
+React<br>
+Next.js<br>
+Node.js<br>
+Express<br>
+Spring Boot
+</td>
+
+<td align="center" width="25%">
+<h3>🤖 AI / ML</h3>
+Machine Learning<br>
+Computer Vision<br>
+RAG<br>
+OCR<br>
+Generative AI
+</td>
+
+<td align="center" width="25%">
+<h3>☁️ DevOps</h3>
+Docker<br>
+Kubernetes<br>
+AWS<br>
+Terraform<br>
+CI/CD
+</td>
+</tr>
+</table>
+
+
+<!-- ========================================================= -->
+<!--                       SKILL LEVELS                         -->
+<!-- ========================================================= -->
+
+<h2>📊 Skill Levels</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-████████████████████░░-ED8B00?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/C%2B%2B-███████████████████░░░-00599C?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Python-███████████████████░░░-3670A0?style=for-the-badge" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React%20%2F%20JavaScript-██████████████████░░░░-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Node.js%20%2F%20Express-█████████████████░░░░░-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Spring%20Boot-████████████████░░░░░░-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Databases-██████████████████░░░░-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI%20%2F%20ML%20%2F%20CV-████████████████░░░░░░-8B5CF6?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/GenAI%20%2F%20RAG-███████████████░░░░░░░-0AFFEF?style=for-the-badge&logoColor=black" />
+
+</p>
+
+
+<!-- ========================================================= -->
+<!--                       EXPERIENCE                          -->
+<!-- ========================================================= -->
+
+<h2>💼 Experience</h2>
+
+<table>
+<tr>
+<td>
+
+### 🚀 Full Stack Developer Intern — Flowbit Private Limited
+
+**What I worked on:**
+
+- 📄 Built a **PDF Viewer & AI Data Extraction Dashboard**
+- 🧩 Designed separated **frontend + backend architecture**
+- 📑 Integrated **PDF.js** for document viewing
+- 🤖 Implemented AI-based structured data extraction
+- 🗄️ Used **MongoDB Atlas + GridFS** for document storage
+- 🔄 Implemented complete CRUD operations for extracted data
+- 🎨 Focused on responsive and practical user experience
+
+</td>
+</tr>
+</table>
+
+
+<!-- ========================================================= -->
+<!--                    FEATURED PROJECTS                       -->
+<!-- ========================================================= -->
+
+<h2>🚀 Featured Projects</h2>
+
+<p align="center">
+  <i>Real-world problems → AI / Software → Practical products</i>
+</p>
+
+<br>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 📑 DocBlendAI
+
+**Confidence-Aware Document QA**
+
+An intelligent document question-answering system capable of working with:
+
+- 📄 Typed PDFs
+- ✍️ Handwritten documents
+- 🖨️ Scanned documents
+- 🖼️ Images
+- 📝 Word documents
+- 📊 PowerPoint files
+- 📈 Excel files
+
+### 🔥 Highlights
+
+- PaddleOCR
+- PP-StructureV3
+- TrOCR
+- Gemini-powered OCR correction
+- Confidence calibration
+- Reliability labels
+- Document question answering
+
+**Reliability levels:**
+
+`🟢 Certain` · `🟡 Moderate` · `🟠 Uncertain` · `🔴 Unreadable`
+
+<a href="https://github.com/gauravkal006/DocBlendAI">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📄 Smart Document Assistant
+
+**AI-powered PDF productivity platform**
+
+### ✨ Features
+
+- PDF extraction
+- PDF merge
+- PDF compression
+- AI summaries
+- Key-point extraction
+- Q&A
+- Translation
+- RAG-powered document chat
+- FAISS vector search
+- Role-based daily limits
+
+### 🌎 Supported Languages
+
+`Hindi` · `Marathi` · `Tamil`
+
+<a href="https://github.com/gauravkal006/smart-document-assistant">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🍎 Fruit Freshness Detection
+
+**Computer Vision + Edge AI**
+
+A two-stage vision system that:
+
+- 🍎 Classifies apples
+- 🍌 Classifies bananas
+- 🍊 Classifies oranges
+- 🎯 Detects decay regions
+- 🎨 Uses LAB colour analysis
+- 📊 Calculates freshness percentage
+
+### ⚡ Deployment
+
+`YOLOv11` → `ONNX` → `TFLite`
+
+Designed with edge and mobile deployment in mind.
+
+<a href="https://github.com/gauravkal006/Fruit_freshness_detection">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## ☁️ StoreMyFiles
+
+**Full-Stack Cloud Storage**
+
+A cloud storage platform with:
+
+- 📁 Folder management
+- ⬆️ Upload progress
+- 👁️ File previews
+- ✏️ Rename & move
+- 🔗 Shareable links
+- 🗑️ Trash & restore
+- 🔎 Search
+- ↕️ Sorting
+
+### Architecture
+
+`React` + `Express` + `Database`
+
+<a href="https://github.com/gauravkal006/storemyfiles">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 👗 Lumière — AR Fashion Store 🏆
+
+**Hackathon Project**
+
+Fashion e-commerce platform with an **AR virtual fitting room**.
+
+### 🧠 Computer Vision
+
+MediaPipe Pose tracks **33 body landmarks** to estimate:
+
+- Height
+- Body proportions
+- Clothing size
+
+### 👕 Recommendation
+
+`S → M → L → XL → XXL`
+
+Separate experiences for:
+
+`Men` · `Women` · `Children`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🛡️ ExamShield
+
+**AI Online Exam Proctoring**
+
+Browser-based exam monitoring system using webcam-based face detection.
+
+### 🔐 Features
+
+- Face monitoring
+- Cheating detection
+- Rule violation detection
+- Automatic exam locking
+
+Designed to make online examinations more secure.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 💰 myWallet
+
+**Full-Stack Expense Tracker**
+
+### Features
+
+- JWT authentication
+- Admin / User roles
+- Income tracking
+- Expense tracking
+- Categories
+- Recurring budgets
+- Interactive charts
+- Glassmorphism UI
+
+### 📊 Visualization
+
+`Pie Charts` + `Bar Charts`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏡 Home Decor E-Commerce 🚧
+
+**Production-style Java platform**
+
+Currently in development.
+
+### 🏗️ Architecture
+
+`Spring Boot`
+
+`React 19`
+
+`Docker`
+
+`Kubernetes`
+
+`Terraform`
+
+`AWS`
+
+The goal is to build a scalable production-style e-commerce platform.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🚗 Scroll-Driven Hero Animation
+
+A highly interactive landing page where a car drives across the screen as the user scrolls.
+
+### ⚡ Built With
+
+`GSAP ScrollTrigger`
+
+`Lenis`
+
+### ✨ Effects
+
+- Scroll-driven animation
+- Smooth scrolling
+- Animated statistics
+- Dynamic road painting
+- Parallax-style interactions
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌦️ Weather App
+
+Live weather application with:
+
+- 🌡️ Temperature
+- 💧 Humidity
+- 💨 Wind
+- 🌅 Sunrise
+- 🌇 Sunset
+- 📍 Location
+- 🗺️ Interactive map
+
+Designed with an **instrument-console inspired UI**.
+
+</td>
+
+</tr>
+</table>
+
+
+<!-- ========================================================= -->
+<!--                     MORE PROJECTS                          -->
+<!-- ========================================================= -->
+
+<details>
+<summary><b>📁 Explore More Projects</b></summary>
+
+<br>
+
+| Project | Technology | Description |
+|---|---|---|
+| 🧩 DSA | Java · C++ | Data Structures & Algorithms practice |
+| 🏫 Hostel Management System | Java · DBMS | Database-backed hostel management system |
+| 🌐 College Website | HTML · SCSS · MDB5 | Responsive college website |
+| 🚀 1st Diploma Project | HTML | My first web project |
+| 🤖 AI Teacher Assistant | Node.js · Gemini | AI grading, feedback & quiz generation |
+| 📱 QR Attendance System | Java · Swing · MySQL · ZXing | QR-based attendance tracking |
+| 🏠 House Price Prediction | Python · Flask · ML | Machine learning price prediction |
+| 🌱 Carbon Footprint Calculator | Python · Streamlit | Carbon footprint estimation |
+| 🎯 Recommendation System | Python · ML | Personalized recommendation engine |
+
+</details>
+
+
+<!-- ========================================================= -->
+<!--                       GITHUB STATS                         -->
+<!-- ========================================================= -->
+
+<h2>📈 GitHub Analytics</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=gauravkal006&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkal006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=gauravkal006&theme=tokyonight&hide_border=true&ring=0AFFEF&fire=F97316&currStreakLabel=0AFFEF"
+    width="65%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-trophies.vercel.app/?username=gauravkal006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"
+    width="100%"
+  />
+</p>
+
+
+<!-- ========================================================= -->
+<!--                    TOP REPOSITORIES                        -->
+<!-- ========================================================= -->
+
+<h2>📌 Top Repositories</h2>
+
+<p align="center">
+
+<a href="https://github.com/gauravkal006/DocBlendAI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravkal006&repo=DocBlendAI&theme=tokyonight&hide_border=true" width="48%" />
+</a>
+
+<a href="https://github.com/gauravkal006/smart-document-assistant">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravkal006&repo=smart-document-assistant&theme=tokyonight&hide_border=true" width="48%" />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/gauravkal006/Fruit_freshness_detection">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravkal006&repo=Fruit_freshness_detection&theme=tokyonight&hide_border=true" width="48%" />
+</a>
+
+<a href="https://github.com/gauravkal006/storemyfiles">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravkal006&repo=storemyfiles&theme=tokyonight&hide_border=true" width="48%" />
+</a>
+
+</p>
+
+
+<!-- ========================================================= -->
+<!--                         SNAKE                              -->
+<!-- ========================================================= -->
+
+<h2>🐍 Contribution Activity</h2>
+
+<p align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+</p>
 
-💼 Experience
-🚀 Full Stack Developer Intern — Flowbit Private Limited
-Show Image Show Image Show Image Show Image Show Image
 
-Built a PDF Viewer & AI Data Extraction Dashboard with separated frontend/backend
-PDF upload & viewing with PDF.js; AI-based structured data extraction
-Document storage with MongoDB Atlas + GridFS; full CRUD for extracted data
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-📂 Featured Projects
-🟢 live demo · 🏆 hackathon · 🚧 in progress — click a title to open the repo
+<!-- ========================================================= -->
+<!--                         EDUCATION                          -->
+<!-- ========================================================= -->
 
-<table> <tr> <td width="50%" valign="top">
-📑 DocBlendAI
-Show Image Show Image Show Image Show Image Show Image
+<h2>🎓 Education</h2>
 
-Document question-answering assistant that tells you how confident it is. It reads typed, scanned and handwritten PDFs, images, Word, PowerPoint and Excel files using PaddleOCR, PP-StructureV3 and TrOCR. Every answer gets a reliability label: Certain, Moderate, Uncertain or Unreadable. Gemini fixes OCR mistakes, and calibrated confidence scores show how far to trust each answer.
+<table align="center">
+<tr>
+<th>🏫 Institute</th>
+<th>📜 Program</th>
+<th>📌 Status</th>
+</tr>
 
-</td> <td width="50%" valign="top">
-📄 Smart Document Assistant
-Show Image Show Image Show Image Show Image
+<tr>
+<td>Prof. Ram Meghe Institute of Technology & Research, Amravati</td>
+<td>B.E. — Computer Science & Engineering</td>
+<td>🟢 Pursuing</td>
+</tr>
 
-AI-powered PDF platform. Free tools extract, merge and compress PDFs. Logged-in users get summaries, key points, Q&A, translation (Hindi/Marathi/Tamil) and RAG chat over FAISS vectors, with role-based daily usage limits.
+<tr>
+<td>Government Polytechnic, Amravati</td>
+<td>Diploma — Information Technology</td>
+<td>✅ Completed</td>
+</tr>
 
-</td> </tr> <tr> <td width="50%" valign="top">
-🍎 Fruit Freshness Detection 🟢
-Show Image Show Image Show Image Show Image Show Image
+</table>
 
-Two-stage vision AI that classifies apples, bananas and oranges with a fine-tuned YOLOv11 model, then uses LAB colour analysis to rate freshness as a percentage and find decay spots. Exported to ONNX and TFLite for edge and mobile devices.
 
-▶ Live Demo
+<!-- ========================================================= -->
+<!--                     WHAT I LIKE BUILDING                   -->
+<!-- ========================================================= -->
 
-</td> <td width="50%" valign="top">
-☁️ StoreMyFiles 🟢
-Show Image Show Image Show Image Show Image Show Image
+<h2>🧠 What I Like Building</h2>
 
-Full-stack cloud storage app with folders, uploads with progress bars, previews, rename and move, shareable links, trash and restore, plus search and sort. The React client and Express API are kept separate.
+<p align="center">
 
-▶ Live Demo
+<b>AI + Software</b>
+&nbsp; → &nbsp;
+<b>Real-World Problem</b>
+&nbsp; → &nbsp;
+<b>Practical Solution</b>
+&nbsp; → &nbsp;
+<b>Web / Mobile App</b>
+&nbsp; → &nbsp;
+<b>Better UX</b>
 
-</td> </tr> <tr> <td width="50%" valign="top">
-👗 Lumière — AR Fashion Store 🏆
-Show Image Show Image Show Image Show Image
+</p>
 
-Hackathon project: fashion e-commerce with a real-time AR virtual fitting room. MediaPipe Pose (33 body landmarks) powers height estimation and S–XXL size recommendation, with separate Men, Women and Children sections.
+<p align="center">
+  <i>
+    I don't just want to build models.
+    I want to turn ideas into products people can actually use.
+  </i>
+</p>
 
-</td> <td width="50%" valign="top">
-🛡️ ExamShield
-Show Image Show Image Show Image Show Image
 
-AI-powered online exam proctoring. A browser webcam monitor uses face detection to catch cheating, and the exam locks instantly when a rule is broken.
+<!-- ========================================================= -->
+<!--                         OPEN TO                            -->
+<!-- ========================================================= -->
 
-</td> </tr> <tr> <td width="50%" valign="top">
-💰 myWallet — Expense Tracker
-Show Image Show Image Show Image Show Image
+<h2>🤝 Open To</h2>
 
-Full-stack expense manager with JWT login and Admin/User roles, income and expense tracking, categories, recurring budgets, and interactive pie and bar charts in a glassmorphism design.
+<p align="center">
 
-</td> <td width="50%" valign="top">
-🏡 Home Decor E-Commerce 🚧
-Show Image Show Image Show Image Show Image Show Image Show Image
+<img src="https://img.shields.io/badge/SDE%20Internships-0AFFEF?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/AI%2FML%20Internships-3B82F6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Full%20Stack%20Roles-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hackathons-F97316?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20Source-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Entry--Level%20Roles-6366F1?style=for-the-badge" />
 
-In progress. A production-style full-stack Java platform built with Spring Boot, React 19, Docker, Kubernetes, Terraform and AWS.
+</p>
 
-</td> </tr> <tr> <td width="50%" valign="top">
-🚗 Scroll-Driven Hero Animation 🟢
-Show Image Show Image Show Image
 
-A car drives across the screen as you scroll, painting the road and filling in the stat cards. Built with GSAP ScrollTrigger and Lenis smooth scrolling.
+<!-- ========================================================= -->
+<!--                       DEV QUOTE                            -->
+<!-- ========================================================= -->
 
-▶ Live Demo
+<h2>💭 Developer Mindset</h2>
 
-</td> <td width="50%" valign="top">
-🌦️ Weather App 🟢
-Show Image Show Image Show Image
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+    width="100%"
+    alt="Random developer quote"
+  />
+</p>
 
-Live weather for any city: temperature, humidity, wind, sunrise and sunset, and the city's location on a map, in an instrument-console design.
 
-▶ Live Demo
+<!-- ========================================================= -->
+<!--                     CONNECT WITH ME                        -->
+<!-- ========================================================= -->
 
-</td> </tr> </table> <details> <summary><b>📁 More projects (click to expand)</b></summary> <br/>
-Project	Stack	About
-DSA	Java · C++	Data structures & algorithms practice
-Hostel Management System	Java · DBMS	Diploma 2nd-year project: hostel management backed by a database
-College Website	HTML · SCSS · MDB5	Responsive college website
-1st Diploma Project	HTML	My first web project
-AI Teacher Assistant	Node.js · Gemini	AI grading, feedback & quiz generation
-QR Attendance System	Java · Swing · MySQL · ZXing	QR-code based attendance tracking
-House Price Prediction	Python · Flask · ML	ML-based price prediction web app
-Carbon Footprint Calculator	Python · Streamlit	Carbon footprint estimator
-Recommendation System	Python · ML	Personalized recommendation engine
-</details> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-🎓 Education
-🏫 Institute	📜 Program	📌 Status
-Prof. Ram Meghe Institute of Technology & Research, Amravati	B.E. — Computer Science & Engineering	Pursuing
-Government Polytechnic, Amravati	Diploma — Information Technology	Completed
-🏅 What I Like Building
-AI + Software  →  Real-World Problem  →  Practical Solution  →  Web / Mobile App  →  Better UX
-I enjoy projects where AI/ML meets solid software engineering — not just models, but products people can use.
+<h2>🌐 Let's Connect</h2>
 
-🤝 Open To
-💼 SDE Internships 🤖 AI/ML Internships 🌐 Full Stack Roles 🏆 Hackathons 🤝 Open Source 💻 Entry-Level Roles
+<p align="center">
 
-✍️ Random Dev Quote
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Random dev quote" /> </p>
-🌐 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/gaurav-k-137336237/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:gauravkal66@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://github.com/gauravkal006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> </p> <p align="center"> <a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=gauravkal006&label=Visitors&color=0AFFEF&style=flat-square" alt="Visitor count" /></a> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=600&color=3B82F6&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%99%8F;Let's+build+something+amazing+together+%F0%9F%9A%80" width="100%" /> </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:0AFFEF&height=120&section=footer" width="100%" />
+<a href="https://www.linkedin.com/in/gaurav-k-137336237/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:gauravkal66@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/gauravkal006">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=gauravkal006&label=VISITORS&color=0AFFEF&style=flat-square"
+    alt="Visitor count"
+  />
+</p>
+
+
+<!-- ========================================================= -->
+<!--                         FOOTER                             -->
+<!-- ========================================================= -->
+
+<p align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=600&color=0AFFEF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!+%F0%9F%99%8F;Let's+build+something+amazing+together!+%F0%9F%9A%80;Code.+Create.+Learn.+Repeat.+%E2%9C%A8"
+  width="100%"
+/>
+
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:3B82F6,100:0AFFEF&height=130&section=footer"
+    width="100%"
+  />
+</p>
