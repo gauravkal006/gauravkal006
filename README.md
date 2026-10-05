@@ -42,9 +42,9 @@ I enjoy building practical projects that combine **software development, AI/ML, 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gauravkal006&show_icons=true&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkal006&layout=compact&hide_border=true&langs_count=8" />
 
 </div>
 
