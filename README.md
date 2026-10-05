@@ -50,7 +50,7 @@ I enjoy building practical projects that combine **software development, AI/ML, 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&ring=3B82F6&fire=F97316&currStreakLabel=3B82F6" />
+<img src="https://streak-stats.demolab.com?user=gauravkal006&hide_border=true&ring=3B82F6&fire=F97316&currStreakLabel=3B82F6" />
 
 </div>
 
