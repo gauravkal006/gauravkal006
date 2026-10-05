@@ -18,13 +18,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurav-k-137336237/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/gauravkal006/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:gauravkal66@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -41,18 +41,23 @@
 
 I'm a Computer Science & Engineering student passionate about software development, AI/ML and problem solving. I love building practical projects that combine AI + web technologies + databases to solve real-world problems.
 
-🔭 **Currently:** Building DocBlendAI (confidence-aware document QA) & a Spring Boot Home Decor platform  
-🌱 **Learning:** Spring Boot, Docker, Kubernetes, AWS, RAG & DSA  
-💼 **Experience:** Full Stack Intern @ Flowbit · Hackathons  
-🧠 **Practising:** DSA, aptitude & placement-oriented coding  
-🤝 **Open to:** Internships, collaborations & hackathons  
+🔭 **Currently:** Building DocBlendAI (confidence-aware document QA) & a Spring Boot Home Decor platform
+
+🌱 **Learning:** Spring Boot, Docker, Kubernetes, AWS, RAG & DSA
+
+💼 **Experience:** Full Stack Intern @ Flowbit · Hackathons
+
+🧠 **Practising:** DSA, aptitude & placement-oriented coding
+
+🤝 **Open to:** Internships, collaborations & hackathons
+
 📍 **Location:** Amravati, Maharashtra, India
 
 </td>
 
 <td width="40%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding animation" />
 
 </td>
 </tr>
@@ -76,12 +81,12 @@ I'm a Computer Science & Engineering student passionate about software developme
 </p>
 
 <p align="center">
-  <b>AI / ML &amp; Computer Vision</b><br/>
+  <b>AI / ML & Computer Vision</b><br/>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&perline=4" />
 </p>
 
 <p align="center">
-  <b>Databases, Cloud &amp; DevOps</b><br/>
+  <b>Databases, Cloud & DevOps</b><br/>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,kubernetes,aws,vercel,git,github,vscode,postman&perline=11" />
 </p>
 
@@ -185,26 +190,6 @@ I'm a Computer Science & Engineering student passionate about software developme
 </p>
 
 
-<!-- ===================== SKILL LEVELS ===================== -->
-
-## 📈 Skill Levels
-
-| Skill | Level |
-|---|---|
-| ☕ Java | Show Image |
-| ⚙️ C++ | Show Image |
-| 🐍 Python | Show Image |
-| 🌐 JavaScript / React | Show Image |
-| 🟢 Node.js / Express | Show Image |
-| 🍃 Spring Boot | Show Image |
-| 🗄️ MySQL / PostgreSQL / MongoDB | Show Image |
-| 🤖 Machine Learning / CV | Show Image |
-| ✨ GenAI / RAG | Show Image |
-| 🧩 DSA | Show Image |
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 
 ## 📊 GitHub Analytics
@@ -248,7 +233,7 @@ I'm a Computer Science & Engineering student passionate about software developme
 </p>
 
 
-<!-- ===================== SNAKE GAME ===================== -->
+<!-- ===================== SNAKE ===================== -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -261,25 +246,16 @@ I'm a Computer Science & Engineering student passionate about software developme
 
 ### 🚀 Full Stack Developer Intern — Flowbit Private Limited
 
-Show Image  
-Show Image  
-Show Image  
-Show Image  
-Show Image
-
-- Built a **PDF Viewer & AI Data Extraction Dashboard** with separated frontend/backend
-- PDF upload & viewing with PDF.js; AI-based structured data extraction
-- Document storage with MongoDB Atlas + GridFS
-- Full CRUD for extracted data
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+- Built a **PDF Viewer & AI Data Extraction Dashboard** with separated frontend and backend
+- Implemented PDF upload and viewing using **PDF.js**
+- Built AI-powered structured data extraction workflows
+- Used **MongoDB Atlas + GridFS** for document storage
+- Implemented CRUD operations for extracted data
 
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 
 ## 📂 Featured Projects
-
-🟢 live demo · 🏆 hackathon · 🚧 in progress — click a title to open the repo
 
 <table>
 
@@ -289,13 +265,19 @@ Show Image
 
 ### 📑 DocBlendAI
 
-Show Image  
-Show Image  
-Show Image  
-Show Image  
-Show Image
+**Confidence-aware document question-answering assistant**
 
-Document question-answering assistant that tells you how confident it is. It reads typed, scanned and handwritten PDFs, images, Word, PowerPoint and Excel files using PaddleOCR, PP-StructureV3 and TrOCR. Every answer gets a reliability label: Certain, Moderate, Uncertain or Unreadable. Gemini fixes OCR mistakes, and calibrated confidence scores show how far to trust each answer.
+DocBlendAI works with typed, scanned and handwritten PDFs, images, Word, PowerPoint and Excel files.
+
+It uses PaddleOCR, PP-StructureV3 and TrOCR for document understanding. Answers receive reliability labels such as **Certain, Moderate, Uncertain and Unreadable**.
+
+Gemini is used to improve OCR results, while calibrated confidence scores help communicate how much an answer should be trusted.
+
+<br/>
+
+<a href="https://github.com/gauravkal006/DocBlendAI">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View DocBlendAI repository" />
+</a>
 
 </td>
 
@@ -303,12 +285,17 @@ Document question-answering assistant that tells you how confident it is. It rea
 
 ### 📄 Smart Document Assistant
 
-Show Image  
-Show Image  
-Show Image  
-Show Image
+**AI-powered PDF platform**
 
-AI-powered PDF platform. Free tools extract, merge and compress PDFs. Logged-in users get summaries, key points, Q&A, translation (Hindi/Marathi/Tamil) and RAG chat over FAISS vectors, with role-based daily usage limits.
+Provides PDF extraction, merging and compression tools.
+
+Logged-in users can access summaries, key points, Q&A, Hindi/Marathi/Tamil translation and RAG-based chat using FAISS vectors with role-based daily usage limits.
+
+<br/>
+
+<a href="https://github.com/gauravkal006/smart-document-assistant">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Smart Document Assistant repository" />
+</a>
 
 </td>
 
@@ -318,33 +305,39 @@ AI-powered PDF platform. Free tools extract, merge and compress PDFs. Logged-in 
 
 <td width="50%" valign="top">
 
-### 🍎 Fruit Freshness Detection 🟢
+### 🍎 Fruit Freshness Detection
 
-Show Image  
-Show Image  
-Show Image  
-Show Image  
-Show Image
+**Two-stage computer vision system**
 
-Two-stage vision AI that classifies apples, bananas and oranges with a fine-tuned YOLOv11 model, then uses LAB colour analysis to rate freshness as a percentage and find decay spots. Exported to ONNX and TFLite for edge and mobile devices.
+Classifies apples, bananas and oranges using a fine-tuned YOLOv11 model.
 
-▶ Live Demo
+LAB colour analysis is then used to estimate freshness percentage and identify decay spots.
+
+The model has been exported to ONNX and TFLite for edge and mobile deployment.
+
+<br/>
+
+<a href="https://github.com/gauravkal006/Fruit_freshness_detection">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Fruit Freshness Detection repository" />
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### ☁️ StoreMyFiles 🟢
+### ☁️ StoreMyFiles
 
-Show Image  
-Show Image  
-Show Image  
-Show Image  
-Show Image
+**Full-stack cloud storage application**
 
-Full-stack cloud storage app with folders, uploads with progress bars, previews, rename and move, shareable links, trash and restore, plus search and sort. The React client and Express API are kept separate.
+Features include folders, file uploads with progress bars, previews, rename and move operations, shareable links, trash and restore, search and sorting.
 
-▶ Live Demo
+The React frontend and Express API are maintained separately.
+
+<br/>
+
+<a href="https://github.com/gauravkal006/storemyfiles">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View StoreMyFiles repository" />
+</a>
 
 </td>
 
@@ -356,12 +349,13 @@ Full-stack cloud storage app with folders, uploads with progress bars, previews,
 
 ### 👗 Lumière — AR Fashion Store 🏆
 
-Show Image  
-Show Image  
-Show Image  
-Show Image
+**Hackathon project**
 
-Hackathon project: fashion e-commerce with a real-time AR virtual fitting room. MediaPipe Pose (33 body landmarks) powers height estimation and S–XXL size recommendation, with separate Men, Women and Children sections.
+Fashion e-commerce platform featuring a real-time AR virtual fitting room.
+
+MediaPipe Pose with 33 body landmarks is used for height estimation and S–XXL size recommendation.
+
+Includes separate Men, Women and Children sections.
 
 </td>
 
@@ -369,12 +363,11 @@ Hackathon project: fashion e-commerce with a real-time AR virtual fitting room. 
 
 ### 🛡️ ExamShield
 
-Show Image  
-Show Image  
-Show Image  
-Show Image
+**AI-powered online exam proctoring**
 
-AI-powered online exam proctoring. A browser webcam monitor uses face detection to catch cheating, and the exam locks instantly when a rule is broken.
+A browser webcam monitor uses face detection to identify potential cheating behaviour.
+
+The exam can lock instantly when a configured rule is violated.
 
 </td>
 
@@ -386,12 +379,11 @@ AI-powered online exam proctoring. A browser webcam monitor uses face detection 
 
 ### 💰 myWallet — Expense Tracker
 
-Show Image  
-Show Image  
-Show Image  
-Show Image
+**Full-stack expense management application**
 
-Full-stack expense manager with JWT login and Admin/User roles, income and expense tracking, categories, recurring budgets, and interactive pie and bar charts in a glassmorphism design.
+Includes JWT authentication, Admin/User roles, income and expense tracking, categories, recurring budgets and interactive pie and bar charts.
+
+Designed with a glassmorphism-inspired interface.
 
 </td>
 
@@ -399,14 +391,11 @@ Full-stack expense manager with JWT login and Admin/User roles, income and expen
 
 ### 🏡 Home Decor E-Commerce 🚧
 
-Show Image  
-Show Image  
-Show Image  
-Show Image  
-Show Image  
-Show Image
+**Production-style full-stack Java platform**
 
-In progress. A production-style full-stack Java platform built with Spring Boot, React 19, Docker, Kubernetes, Terraform and AWS.
+Currently in progress.
+
+Built around Spring Boot and React 19 with Docker, Kubernetes, Terraform and AWS.
 
 </td>
 
@@ -416,29 +405,25 @@ In progress. A production-style full-stack Java platform built with Spring Boot,
 
 <td width="50%" valign="top">
 
-### 🚗 Scroll-Driven Hero Animation 🟢
+### 🚗 Scroll-Driven Hero Animation
 
-Show Image  
-Show Image  
-Show Image
+**Interactive GSAP animation project**
 
-A car drives across the screen as you scroll, painting the road and filling in the stat cards. Built with GSAP ScrollTrigger and Lenis smooth scrolling.
+A car moves across the screen as the user scrolls.
 
-▶ Live Demo
+The animation uses GSAP ScrollTrigger and Lenis smooth scrolling to create an interactive visual experience.
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌦️ Weather App 🟢
+### 🌦️ Weather App
 
-Show Image  
-Show Image  
-Show Image
+**Live weather application**
 
-Live weather for any city: temperature, humidity, wind, sunrise and sunset, and the city's location on a map, in an instrument-console design.
+Provides temperature, humidity, wind, sunrise and sunset information along with the city's location on a map.
 
-▶ Live Demo
+The interface follows an instrument-console visual style.
 
 </td>
 
@@ -450,20 +435,20 @@ Live weather for any city: temperature, humidity, wind, sunrise and sunset, and 
 <!-- ===================== MORE PROJECTS ===================== -->
 
 <details>
-<summary><b>📁 More projects (click to expand)</b></summary>
+<summary><b>📁 More Projects</b></summary>
 
 <br/>
 
-| Project | Stack | About |
+| Project | Stack | Description |
 |---|---|---|
 | DSA | Java · C++ | Data structures & algorithms practice |
-| Hostel Management System | Java · DBMS | Diploma 2nd-year project: hostel management backed by a database |
+| Hostel Management System | Java · DBMS | Diploma 2nd-year project with database-backed hostel management |
 | College Website | HTML · SCSS · MDB5 | Responsive college website |
-| 1st Diploma Project | HTML | My first web project |
-| AI Teacher Assistant | Node.js · Gemini | AI grading, feedback & quiz generation |
+| 1st Diploma Project | HTML | First web development project |
+| AI Teacher Assistant | Node.js · Gemini | AI grading, feedback and quiz generation |
 | QR Attendance System | Java · Swing · MySQL · ZXing | QR-code based attendance tracking |
-| House Price Prediction | Python · Flask · ML | ML-based price prediction web app |
-| Carbon Footprint Calculator | Python · Streamlit | Carbon footprint estimator |
+| House Price Prediction | Python · Flask · ML | ML-based house price prediction web application |
+| Carbon Footprint Calculator | Python · Streamlit | Carbon footprint estimation application |
 | Recommendation System | Python · ML | Personalized recommendation engine |
 
 </details>
@@ -487,31 +472,35 @@ Live weather for any city: temperature, humidity, wind, sunrise and sunset, and 
 
 <p align="center">
 
-AI + Software  
-&nbsp; → &nbsp;  
-Real-World Problem  
-&nbsp; → &nbsp;  
-Practical Solution  
-&nbsp; → &nbsp;  
-Web / Mobile App  
-&nbsp; → &nbsp;  
-Better UX
+<b>AI + Software</b>
+&nbsp; → &nbsp;
+<b>Real-World Problem</b>
+&nbsp; → &nbsp;
+<b>Practical Solution</b>
+&nbsp; → &nbsp;
+<b>Web / Mobile App</b>
+&nbsp; → &nbsp;
+<b>Better UX</b>
 
 </p>
 
-I enjoy projects where AI/ML meets solid software engineering — not just models, but products people can use.
+I enjoy projects where AI/ML meets solid software engineering — not just models, but products people can actually use.
 
 
 <!-- ===================== OPEN TO ===================== -->
 
 ## 🤝 Open To
 
-💼 SDE Internships  
-🤖 AI/ML Internships  
-🌐 Full Stack Roles  
-🏆 Hackathons  
-🤝 Open Source  
+<p align="center">
+
+💼 SDE Internships &nbsp; • &nbsp;
+🤖 AI/ML Internships &nbsp; • &nbsp;
+🌐 Full Stack Roles &nbsp; • &nbsp;
+🏆 Hackathons &nbsp; • &nbsp;
+🤝 Open Source &nbsp; • &nbsp;
 💻 Entry-Level Roles
+
+</p>
 
 
 <!-- ===================== RANDOM DEV QUOTE ===================== -->
@@ -519,7 +508,7 @@ I enjoy projects where AI/ML meets solid software engineering — not just model
 ## ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Random dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Random developer quote" />
 </p>
 
 
