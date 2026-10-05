@@ -104,11 +104,9 @@ I'm a Computer Science & Engineering student passionate about software developme
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/Apache%20Groovy-4298B8?style=plastic&logo=apachegroovy&logoColor=white" alt="Apache Groovy" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=plastic&logo=latex&logoColor=white" alt="LaTeX" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css&logoColor=white" alt="CSS3" />
 </p>
@@ -118,7 +116,6 @@ I'm a Computer Science & Engineering student passionate about software developme
   <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Angular.js-E23237?style=plastic&logo=angularjs&logoColor=white" alt="Angular.js" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=plastic&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/Radix%20UI-161618?style=plastic&logo=radixui&logoColor=white" alt="Radix UI" />
@@ -173,7 +170,6 @@ I'm a Computer Science & Engineering student passionate about software developme
   <img src="https://img.shields.io/badge/GitHub-121011?style=plastic&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
 
