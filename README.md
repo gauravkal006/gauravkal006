@@ -106,11 +106,7 @@ I'm a Computer Science & Engineering student passionate about software developme
   <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=plastic&logo=scala&logoColor=white" alt="Scala" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Perl-39457E?style=plastic&logo=perl&logoColor=white" alt="Perl" />
   <img src="https://img.shields.io/badge/Apache%20Groovy-4298B8?style=plastic&logo=apachegroovy&logoColor=white" alt="Apache Groovy" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=plastic&logo=powershell&logoColor=white" alt="PowerShell" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphql&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=plastic&logo=latex&logoColor=white" alt="LaTeX" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5" />
@@ -156,17 +152,13 @@ I'm a Computer Science & Engineering student passionate about software developme
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-DD0031?style=plastic&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white" alt="MariaDB" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
-  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=amazondynamodb&logoColor=white" alt="Amazon DynamoDB" />
 </p>
 
 <p align="center">
   <b>🧰 Cloud, Hosting & Servers</b><br/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0072C6?style=plastic&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=plastic&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=plastic&logo=render&logoColor=black" alt="Render" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=plastic&logo=heroku&logoColor=white" alt="Heroku" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white" alt="Nginx" />
@@ -179,12 +171,9 @@ I'm a Computer Science & Engineering student passionate about software developme
   <b>🧰 Tools & Design</b><br/>
   <img src="https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-121011?style=plastic&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitLab-181717?style=plastic&logo=gitlab&logoColor=white" alt="GitLab" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Zigbee-EB0443?style=plastic&logo=zigbee&logoColor=white" alt="Zigbee" />
 </p>
 
 
