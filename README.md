@@ -45,8 +45,6 @@ I'm a Computer Science & Engineering student passionate about software developme
 
 🌱 **Learning:** Spring Boot, Docker, Kubernetes, AWS, RAG & DSA
 
-<---💼 **Experience:** Full Stack Intern @ Flowbit · Hackathons --->
-
 🧠 **Practising:** DSA, aptitude & placement-oriented coding
 
 🤝 **Open to:** Internships, collaborations & hackathons
