@@ -37,7 +37,7 @@ Skill	Level
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gauravkal006/gauravkal006/output/github-snake.svg" /> <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/gauravkal006/gauravkal006/output/github-snake.svg" width="100%" /> </picture> </p> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 💼 Experience
 🚀 Full Stack Developer Intern — Flowbit Private Limited
 Show Image Show Image Show Image Show Image Show Image
