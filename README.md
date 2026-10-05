@@ -241,7 +241,7 @@ I'm a Computer Science & Engineering student passionate about software developme
 
 
 <!-- ===================== EXPERIENCE ===================== -->
-
+<!--
 ## 💼 Experience
 
 ### 🚀 Full Stack Developer Intern — Flowbit Private Limited
@@ -250,7 +250,7 @@ I'm a Computer Science & Engineering student passionate about software developme
 - Implemented PDF upload and viewing using **PDF.js**
 - Built AI-powered structured data extraction workflows
 - Used **MongoDB Atlas + GridFS** for document storage
-- Implemented CRUD operations for extracted data
+- Implemented CRUD operations for extracted data -->
 
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
