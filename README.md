@@ -31,8 +31,13 @@ Skill	Level
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gauravkal006&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravkal006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=gauravkal006&theme=tokyonight&hide_border=true&ring=0AFFEF&fire=F97316&currStreakLabel=0AFFEF" width="60%" /> </p> <p align="center"> <img src="https://github-trophies.vercel.app/?username=gauravkal006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" /> </p>
 📌 Top Repositories
 <p align="center"> <a href="https://github.com/gauravkal006/DocBlendAI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravkal006&repo=DocBlendAI&theme=tokyonight&hide_border=true" width="49%" /></a> <a href="https://github.com/gauravkal006/smart-document-assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravkal006&repo=smart-document-assistant&theme=tokyonight&hide_border=true" width="49%" /></a> <a href="https://github.com/gauravkal006/Fruit_freshness_detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravkal006&repo=Fruit_freshness_detection&theme=tokyonight&hide_border=true" width="49%" /></a> <a href="https://github.com/gauravkal006/storemyfiles"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gauravkal006&repo=storemyfiles&theme=tokyonight&hide_border=true" width="49%" /></a> </p>
-🐍 Contribution Snake
-<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gauravkal006/gauravkal006/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gauravkal006/gauravkal006/output/github-snake.svg" /> <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/gauravkal006/gauravkal006/output/github-snake.svg" width="100%" /> </picture> </p> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div><br>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gauravkal006/gauravkal006/output/github-snake.svg" /> <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/gauravkal006/gauravkal006/output/github-snake.svg" width="100%" /> </picture> </p> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 💼 Experience
 🚀 Full Stack Developer Intern — Flowbit Private Limited
 Show Image Show Image Show Image Show Image Show Image
